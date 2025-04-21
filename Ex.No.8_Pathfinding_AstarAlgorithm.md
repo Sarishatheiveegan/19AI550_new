@@ -1,6 +1,6 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:13-04-2025                                                                            
+### REGISTER NUMBER : 212223240084
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
@@ -138,13 +138,9 @@ Check the following
 4. AICharacter assigned a start and goal
 ### Output:
 
+![Screenshot 2025-04-21 111427](https://github.com/user-attachments/assets/5c1183f6-3cac-470b-91d0-a51e2df6d593)
 
-
-
-
-
-
-
+![Uploading Screenshot 2025-04-21 111457.png…]()
 
 ### Result:
 Thus the pathfinding algorithm was sucessfully implemented.
