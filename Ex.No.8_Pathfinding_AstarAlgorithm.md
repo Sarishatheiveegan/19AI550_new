@@ -16,7 +16,7 @@ To write a program to create graph using waypoints and use A* algorithm to find 
 8. Create a Game Object for Player ( choose capsule or any others) and attach the script to move player from start to end waypoints
 ```  
 ### Program:
-```
+
 **#1.Waypoint.cs**
 using UnityEngine;
 using System.Collections.Generic;
@@ -138,9 +138,11 @@ Check the following
 4. AICharacter assigned a start and goal
 ### Output:
 
-![Screenshot 2025-04-21 111427](https://github.com/user-attachments/assets/5c1183f6-3cac-470b-91d0-a51e2df6d593)
+![Screenshot 2025-04-26 113635](https://github.com/user-attachments/assets/0cfec3be-4c0c-4841-b714-23d41f274d75)
 
-![Uploading Screenshot 2025-04-21 111457.png…]()
+![Screenshot 2025-04-26 113650](https://github.com/user-attachments/assets/bf89d89a-6973-42ac-b520-f045968e63d0)
+
+
 
 ### Result:
 Thus the pathfinding algorithm was sucessfully implemented.
