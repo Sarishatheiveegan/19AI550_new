@@ -55,7 +55,9 @@ public class PlayerJump : MonoBehaviour
 }
 ```
 ### Output:
-![Screenshot 2025-04-21 102342](https://github.com/user-attachments/assets/770f48a8-43a6-4022-b672-d093c65560ac)
+![Screenshot 2025-04-26 150358](https://github.com/user-attachments/assets/3bce65d0-4a55-4477-9e8d-f86a779b3f26)
+
+![Screenshot 2025-04-26 150418](https://github.com/user-attachments/assets/1b0bf3e9-42ec-481e-b3ad-47c757a40db2)
 
 ### Result:
 Thus the simple jumping behavior was implemented successfully.
