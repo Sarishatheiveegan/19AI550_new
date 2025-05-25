@@ -107,6 +107,8 @@ behaviors:
 ```
 ### Output:
 
+![image](https://github.com/user-attachments/assets/ce7b0dd7-7155-47a2-9465-12a513e525cc)
+![image](https://github.com/user-attachments/assets/632d515c-17cc-4c14-ac2c-9ba05d68d5bc)
 
 
 
